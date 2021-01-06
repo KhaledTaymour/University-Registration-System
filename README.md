@@ -104,8 +104,57 @@ Other values are as college Id, Department Id, grade
 </table>
 
 ## Algorithms Used:
-*****
+#### Here is the algorithm made to add a new registration of a student in a course:
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/3. add a new registration.png?raw=true)
+
+#### And below is the algorithm used to get the registered students in a course (getting the courses registered by a student uses same algorithm with only different inputs and variables)
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/4. get the registered students.png?raw=true)
+
+#### And the delete registration algorithm:
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/5. delete registration.png?raw=true)
+
 
 ## Use Cases:
+Assume having the below registrations
+ # |  1 | 2 | 3 | 4 | 5 | 6 | 7
+--- | --- | --- | --- | --- | --- | --- | ---
+1|*| *| *| | | | |
+2|*|  |  | *| *| | *|
+3| | *| *| | *| *| |
+4| | *| | *| | *| *|
+5| | | *| *| | *| *| 
+____
+
+First importing that Helper class
+```python
+from helper import Helper
+```
+creating an instance of the Helper Class
+```python
+helper = Helper(colleges, departments, students, courses)
+```
+To add registration e.g: passing student Id, Course Id
+```python
+helper.addNewRegister(1, 2)
+```
+to get total # of registrations:
+```python
+helper.getAllRegistrationsDone()
+```
+To get list & count of students registered in a course: passing course Id 
+```python
+helper.getRegisteredStudentsInCourse(5) 
+```
+To get list & count of courses registered by a student: passing student Id 
+```python
+helper.getCoursesRegisteredByStudent(7)
+```
+To delete a registration: passing student Id, Course Id
+```python
+helper.deleteRegistration(3, 3)
+```
 
 ## Screen shots:
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/6. s1.png?raw=true)
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/7. s2.png?raw=true)
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/8. s3.png?raw=true)
