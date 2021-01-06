@@ -68,6 +68,37 @@ Other values are as college Id, Department Id, grade
         </td>       
       </tr>
      <tr>
+      <td> Helper.py </td>
+        <td> A class having functions to help in logic; it is used from UI.ipynb to call functions in registrationLL.py
+           <table>
+              <tbody>
+               <tr> 
+                <td> getDataById </td> <td> get any of the data; colleges, departments, students or courses by passing its list and the id to search for </td>
+               </tr>
+                  <tr>
+                   <td> getAllItemsOfData </td> <td> Print all elements of a data list </td>
+                  </tr>
+                  <tr>
+                    <td> isInputsValid </td> <td> validate the student Id and Course Id given </td>                   
+                  </tr>
+                  <tr>
+                   <td> addNewRegister </td> <td> add new register for a student in a course by passing student Id & course Id </td>
+                  </tr>
+               <tr>
+                   <td> getAllRegistrationsDone </td> <td> get total # of registrations </td>
+                  </tr>
+               <tr>
+                   <td> getRegisteredStudentsInCourse </td> <td> get list & count of students registered in a course </td>
+                  </tr>
+               <tr>
+                   <td> getCoursesRegisteredByStudent </td> <td> get list & count of courses registered by a student </td>
+                  </tr>
+               <tr>
+                   <td> deleteRegistration </td> <td> delete a registration of a student in a course </td>
+                  </tr>
+              </tbody>
+           </table>
+        </td>   
       </tr>
     </tbody>
 </table>
