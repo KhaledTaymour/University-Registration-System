@@ -36,10 +36,36 @@ Other values are as college Id, Department Id, grade
     </thead>
     <tbody>
       <tr>
+         <td> UI.ipynb </td>
+         <td> The file that the user deal with within JupyterLab </td>
       </tr>
      <tr>
+        <td> registrationNode.py </td>
+        <td> The node class </td>       
       </tr>
      <tr>
+        <td> registrationLL.py </td>
+        <td> The Linked List class having the following functions: 
+           <table>
+              <tbody>
+               <tr> 
+                <td> length </td> <td> getting the total number of registrations </td>
+               </tr>
+                  <tr>
+                   <td> addNewRegistration </td> <td> add new Registration having the following inputs: student dictionary, college Id, department Id, course dictionary </td>
+                  </tr>
+                  <tr>
+                    <td> getRegisteredStudentsInCourse </td> <td> get list & count of students registered in a course given the following inputs: course dictionary, course Id, list of students, instance of the helper class </td>                   
+                  </tr>
+                  <tr>
+                   <td> getCoursesRegisteredByStudent </td> <td> get list & count of courses registered by a student given the following inputs: student dictionary, student Id, list of courses, instance of the helper class </td>
+                  </tr>
+               <tr>
+                   <td> deleteRegistration </td> <td> delete a registration of a student in a course </td>
+                  </tr>
+              </tbody>
+           </table>
+        </td>       
       </tr>
      <tr>
       </tr>
