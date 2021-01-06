@@ -114,7 +114,8 @@ Other values are as college Id, Department Id, grade
 
 
 ## Use Cases:
-Assume having the below registrations
+Assume having the below registrations: 
+rows are courses, cols are courses
  _ |  1 | 2 | 3 | 4 | 5 | 6 | 7
 --- | --- | --- | --- | --- | --- | --- | ---
 1|*| *| *| | | | |
