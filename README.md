@@ -1,6 +1,6 @@
 # University-Registration-System
 This project is built using python to register or unregister a student to a course
-##Data Structures Used:
+## Data Structures Used:
 Below are examples the data used:
 
 ```json
@@ -18,7 +18,6 @@ students = [{"id": 1,"name": "Sophia Alvarez","departmentId": 1 , "firstNode": N
 
 ## and below is the Node used for registration:
 ![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/1.%20node.png?raw=true)
-KhaledTaymour/University-Registration-System/blob/main/images/1. node.png
  
 Other values are as college Id, Department Id, grade
 
