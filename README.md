@@ -17,13 +17,13 @@ students = [{"id": 1,"name": "Sophia Alvarez","departmentId": 1 , "firstNode": N
 ```
 
 ## and below is the Node used for registration:
-![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/1. node.png?raw=true)
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/1.%20node.png?raw=true)
 KhaledTaymour/University-Registration-System/blob/main/images/1. node.png
  
 Other values are as college Id, Department Id, grade
 
 ## UML Diagram:
-![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/2. UML.png?raw=true)
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/2.%20UML.png?raw=true)
 
 ## Folder Structure:
 *****
@@ -105,13 +105,13 @@ Other values are as college Id, Department Id, grade
 
 ## Algorithms Used:
 #### Here is the algorithm made to add a new registration of a student in a course:
-![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/3. add a new registration.png?raw=true)
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/3.%20add%20a%20new%20registration.png?raw=true)
 
 #### And below is the algorithm used to get the registered students in a course (getting the courses registered by a student uses same algorithm with only different inputs and variables)
-![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/4. get the registered students.png?raw=true)
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/4.%20get%20the%20registered%20students.png?raw=true)
 
 #### And the delete registration algorithm:
-![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/5. delete registration.png?raw=true)
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/5.%20delete%20registration.png?raw=true)
 
 
 ## Use Cases:
@@ -155,6 +155,6 @@ helper.deleteRegistration(3, 3)
 ```
 
 ## Screen shots:
-![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/6. s1.png?raw=true)
-![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/7. s2.png?raw=true)
-![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/8. s3.png?raw=true)
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/6.%20s1.png?raw=true)
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/7.%20s2.png?raw=true)
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/8.%20s3.png?raw=true)
