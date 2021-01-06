@@ -1,4 +1,4 @@
-# University-Registration-System
+# University Registration System
 This project is built using python to register or unregister a student to a course in which Linked list data structure is implemented. 
 ## Data Structures Used:
 Below are examples the data used:
