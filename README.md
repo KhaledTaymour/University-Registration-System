@@ -115,7 +115,7 @@ Other values are as college Id, Department Id, grade
 
 ## Use Cases:
 Assume having the below registrations
- # |  1 | 2 | 3 | 4 | 5 | 6 | 7
+ _ |  1 | 2 | 3 | 4 | 5 | 6 | 7
 --- | --- | --- | --- | --- | --- | --- | ---
 1|*| *| *| | | | |
 2|*|  |  | *| *| | *|
