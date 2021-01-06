@@ -17,15 +17,34 @@ students = [{"id": 1,"name": "Sophia Alvarez","departmentId": 1 , "firstNode": N
 ```
 
 ## and below is the Node used for registration:
-*****
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/1. node.png?raw=true)
+KhaledTaymour/University-Registration-System/blob/main/images/1. node.png
  
 Other values are as college Id, Department Id, grade
 
 ## UML Diagram:
-******
+![alt text](https://github.com/KhaledTaymour/University-Registration-System/blob/main/images/2. UML.png?raw=true)
 
 ## Folder Structure:
 *****
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+      </tr>
+     <tr>
+      </tr>
+     <tr>
+      </tr>
+     <tr>
+      </tr>
+    </tbody>
+</table>
 
 ## Algorithms Used:
 *****
